@@ -1,35 +1,37 @@
-Reporting_PHU,count
+,_id
+,count
+Reporting_PHU,
 Algoma Public Health Unit,39
-Brant County Health Unit,221
+Brant County Health Unit,224
 Chatham-Kent Health Unit,368
-Durham Region Health Department,2289
-Eastern Ontario Health Unit,326
+Durham Region Health Department,2337
+Eastern Ontario Health Unit,340
 Grey Bruce Health Unit,150
 Haldimand-Norfolk Health Unit,451
 "Haliburton, Kawartha, Pine Ridge District Health Unit",226
-Halton Region Health Department,1543
-Hamilton Public Health Services,1388
+Halton Region Health Department,1572
+Hamilton Public Health Services,1407
 Hastings and Prince Edward Counties Health Unit,59
-Huron Perth District Health Unit,133
+Huron Perth District Health Unit,134
 "Kingston, Frontenac and Lennox & Addington Public Health",165
-Lambton Public Health,330
-"Leeds, Grenville and Lanark District Health Unit",353
-Middlesex-London Health Unit,941
-Niagara Region Public Health Department,1158
+Lambton Public Health,332
+"Leeds, Grenville and Lanark District Health Unit",354
+Middlesex-London Health Unit,947
+Niagara Region Public Health Department,1165
 North Bay Parry Sound District Health Unit,39
 Northwestern Health Unit,68
-Ottawa Public Health,5154
-Peel Public Health,10431
+Ottawa Public Health,5265
+Peel Public Health,10567
 Peterborough Public Health,131
 Porcupine Health Unit,78
-"Region of Waterloo, Public Health",1827
-Renfrew County and District Health Unit,71
-Simcoe Muskoka District Health Unit,1062
-Southwestern Public Health,278
+"Region of Waterloo, Public Health",1838
+Renfrew County and District Health Unit,77
+Simcoe Muskoka District Health Unit,1072
+Southwestern Public Health,279
 Sudbury & District Health Unit,109
-Thunder Bay District Health Unit,107
-Timiskaming Health Unit,19
-Toronto Public Health,19801
-Wellington-Dufferin-Guelph Public Health,700
-Windsor-Essex County Health Unit,2647
-York Region Public Health Services,4663
+Thunder Bay District Health Unit,108
+Timiskaming Health Unit,17
+Toronto Public Health,20045
+Wellington-Dufferin-Guelph Public Health,705
+Windsor-Essex County Health Unit,2657
+York Region Public Health Services,4741
