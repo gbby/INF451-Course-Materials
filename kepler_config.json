@@ -1,0 +1,185 @@
+{
+  "version": "v1",
+  "config": {
+    "visState": {
+      "filters": [],
+      "layers": [
+        {
+          "id": "hqlzsi3",
+          "type": "geojson",
+          "config": {
+            "dataId": "df",
+            "label": "df",
+            "color": [
+              18,
+              147,
+              154
+            ],
+            "columns": {
+              "geojson": "geometry"
+            },
+            "isVisible": True,
+            "visConfig": {
+              "opacity": 0.8,
+              "strokeOpacity": 0.8,
+              "thickness": 24.1,
+              "strokeColor": [
+                221,
+                178,
+                124
+              ],
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "strokeColorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 10,
+              "sizeRange": [
+                0,
+                10
+              ],
+              "radiusRange": [
+                0,
+                50
+              ],
+              "heightRange": [
+                0,
+                500
+              ],
+              "elevationScale": 5,
+              "stroked": True,
+              "filled": True,
+              "enable3d": True,
+              "wireframe": False
+            },
+            "hidden": False,
+            "textLabel": [
+              {
+                "field": None,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 18,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "start",
+                "alignment": "center"
+              }
+            ]
+          },
+          "visualChannels": {
+            "colorField": None,
+            "colorScale": "quantile",
+            "sizeField": None,
+            "sizeScale": "linear",
+            "strokeColorField": None,
+            "strokeColorScale": "quantile",
+            "heightField": {
+              "name": "Rate",
+              "type": "real"
+            },
+            "heightScale": "linear",
+            "radiusField": None,
+            "radiusScale": "linear"
+          }
+        }
+      ],
+      "interactionConfig": {
+        "tooltip": {
+          "fieldsToShow": {
+            "df": [
+              {
+                "name": "ID",
+                "format": None
+              },
+              {
+                "name": "Neighbourhood",
+                "format": None
+              },
+              {
+                "name": "Rate",
+                "format": None
+              },
+              {
+                "name": "Cases",
+                "format": None
+              }
+            ]
+          },
+          "compareMode": False,
+          "compareType": "absolute",
+          "enabled": True
+        },
+        "brush": {
+          "size": 0.5,
+          "enabled": False
+        },
+        "geocoder": {
+          "enabled": False
+        },
+        "coordinate": {
+          "enabled": False
+        }
+      },
+      "layerBlending": "normal",
+      "splitMaps": [],
+      "animationConfig": {
+        "currentTime": None,
+        "speed": 1
+      }
+    },
+    "mapState": {
+      "bearing": 24,
+      "dragRotate": True,
+      "latitude": 43.710806705491436,
+      "longitude": -79.42015354537469,
+      "pitch": 50,
+      "zoom": 10.620163690018412,
+      "isSplit": False
+    },
+    "mapStyle": {
+      "styleType": "dark",
+      "topLayerGroups": {},
+      "visibleLayerGroups": {
+        "label": True,
+        "road": True,
+        "border": False,
+        "building": True,
+        "water": True,
+        "land": True,
+        "3d building": False
+      },
+      "threeDBuildingColor": [
+        9.665468314072013,
+        17.18305478057247,
+        31.1442867897876
+      ],
+      "mapStyles": {}
+    }
+  }
+}

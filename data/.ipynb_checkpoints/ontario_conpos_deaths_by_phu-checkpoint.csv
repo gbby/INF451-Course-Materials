@@ -1,0 +1,32 @@
+,_id,Row_ID,Accurate_Episode_Date,Case_Reported_Date,Test_Reported_Date,Specimen_Date,Age_Group,Client_Gender,Case_AcquisitionInfo,Outbreak_Related,Reporting_PHU_Address,Reporting_PHU_City,Reporting_PHU_Postal_Code,Reporting_PHU_Website,Reporting_PHU_Latitude,Reporting_PHU_Longitude
+,count,count,count,count,count,count,count,count,count,count,count,count,count,count,count,count
+Reporting_PHU,,,,,,,,,,,,,,,,
+Brant County Health Unit,6,6,6,6,6,0,6,6,6,6,6,6,6,6,6,6
+Chatham-Kent Health Unit,3,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3
+Durham Region Health Department,182,182,182,182,182,0,182,182,182,182,182,182,182,182,182,182
+Eastern Ontario Health Unit,17,17,17,17,17,5,17,17,17,17,17,17,17,17,17,17
+Haldimand-Norfolk Health Unit,37,37,37,37,37,0,37,37,37,37,37,37,37,37,37,37
+"Haliburton, Kawartha, Pine Ridge District Health Unit",21,21,21,21,21,1,21,21,21,21,21,21,21,21,21,21
+Halton Region Health Department,32,32,32,32,32,7,32,32,32,32,32,32,32,32,32,32
+Hamilton Public Health Services,48,48,48,48,48,3,48,48,48,48,48,48,48,48,48,48
+Hastings and Prince Edward Counties Health Unit,5,5,5,5,5,0,5,5,5,5,5,5,5,5,5,5
+Huron Perth District Health Unit,5,5,5,5,5,0,5,5,5,5,5,5,5,5,5,5
+Lambton Public Health,25,25,25,25,25,0,25,25,25,25,25,25,25,25,25,25
+"Leeds, Grenville and Lanark District Health Unit",53,53,53,53,53,1,53,53,53,53,53,53,53,53,53,53
+Middlesex-London Health Unit,60,60,60,60,58,60,60,60,60,60,60,60,60,60,60,60
+Niagara Region Public Health Department,69,69,69,69,69,3,69,69,69,69,69,69,69,69,69,69
+North Bay Parry Sound District Health Unit,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+Ottawa Public Health,318,318,318,318,309,318,318,318,318,318,318,318,318,318,318,318
+Peel Public Health,327,327,327,327,327,14,327,327,327,327,327,327,327,327,327,327
+Peterborough Public Health,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2
+Porcupine Health Unit,9,9,9,9,9,0,9,9,9,9,9,9,9,9,9,9
+"Region of Waterloo, Public Health",120,120,120,120,120,1,120,120,120,120,120,120,120,120,120,120
+Renfrew County and District Health Unit,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+Simcoe Muskoka District Health Unit,47,47,47,47,47,12,47,47,47,47,47,47,47,47,47,47
+Southwestern Public Health,5,5,5,5,4,0,5,5,5,5,5,5,5,5,5,5
+Sudbury & District Health Unit,2,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2
+Thunder Bay District Health Unit,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+Toronto Public Health,1326,1326,1326,1326,1304,1307,1326,1326,1326,1326,1326,1326,1326,1326,1326,1326
+Wellington-Dufferin-Guelph Public Health,36,36,36,36,36,0,36,36,36,36,36,36,36,36,36,36
+Windsor-Essex County Health Unit,77,77,77,77,77,3,77,77,77,77,77,77,77,77,77,77
+York Region Public Health Services,268,268,268,268,266,15,268,268,268,268,268,268,268,268,268,268
